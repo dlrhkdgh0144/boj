@@ -12,7 +12,7 @@ int main(void){
 		but[tmp]=1;
 	}
 	min=abs(n-100);
-	for(i=0;i<=999999;i++){
+	for(i=0;i<=888888;i++){
 		cur=i;
         	ok=0;
         	j=0;
